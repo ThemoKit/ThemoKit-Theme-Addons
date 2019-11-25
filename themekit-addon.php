@@ -6,6 +6,8 @@
  *
  * @package     ThemoKit Theme Addons
  * Author:      ThemoKit
+ * License:     GPL2
+ * License URI:  https://www.gnu.org/licenses/gpl-2.0.html 
  * Text Domain: themokit-theme-addons
  */
 
